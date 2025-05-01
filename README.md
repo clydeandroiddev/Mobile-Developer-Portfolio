@@ -6,7 +6,13 @@ Here are the projects that I have built and maintained all throughout of my prof
 
 ### Herfy
 
-Currently working on the project. This android project is a food delivery app for Herfy restaurant
+This app is Herf's official online food ordering app, where users can explore the delicious menu that Herfy's offers. It also displays the latest product offers that entice users to order online, whether it's home delivery or store pickup. It caters to different payment options, such as pay in cash or by credit card. Another feature of the app is the branch locator that helps the user locate the nearest Herfy Restaurant.
+<p align="center">
+<img src='https://github.com/user-attachments/assets/fffc3f63-4aea-4c0c-82cf-fa4eb39d8de8' width="200" height="350"/>
+<img src='https://github.com/user-attachments/assets/e8146b81-5f97-4cd6-9d8e-38853d088e39' width="200" height="350"/>
+<img src='https://github.com/user-attachments/assets/c12ddbcd-0ed5-492c-98f2-ebd03ddbf99a' width="200" height="350"/>
+<img src='https://github.com/user-attachments/assets/478de59f-a3ec-4314-b112-d6672632699a' width="200" height="350"/>
+</p>
  
 Key features:
 - Online food ordering 
