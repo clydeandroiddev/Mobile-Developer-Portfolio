@@ -32,6 +32,12 @@ White-label Flutter ordering app for Karaz Al Bun, a specialty coffee roaster an
 <a href='https://play.google.com/store/apps/details?id=com.doka.androidapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='40px'/></a>
 
 White-label Flutter pickup and delivery app for Doka, an artisanal bakery in Riyadh that sells cakes, sweets, pastries and coffee, built on the Foodics Online platform.
+<p align="center">
+<img src='https://github.com/clydeandroiddev/Mobile-Developer-Portfolio/blob/main/images/doka/doka%201.webp' width="200" height="350"/>
+<img src='https://github.com/clydeandroiddev/Mobile-Developer-Portfolio/blob/main/images/doka/doka%202.webp' width="200" height="350"/>
+<img src='https://github.com/clydeandroiddev/Mobile-Developer-Portfolio/blob/main/images/doka/doka%203.webp' width="200" height="350"/>
+<img src='https://github.com/clydeandroiddev/Mobile-Developer-Portfolio/blob/main/images/doka/doka%204.webp' width="200" height="350"/>
+</p>
 
 **Tech Stack**: Flutter, Dart, Riverpod, Firebase Push Notifications, Ably, Payment Gateways
 <br/>
